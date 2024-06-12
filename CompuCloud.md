@@ -7,7 +7,7 @@ space:2
     CompuCloudAPI
 space:2 
     
-    TagMonitor["Continuously poll PLC tags"]
+    TagMonitor["Continuously <br> poll PLC tags"]
 space
     CCUpdateDB["CompuCloud API - Update database with tags"]
 space
